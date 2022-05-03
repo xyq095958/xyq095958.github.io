@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "project.md",title:"project"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "xyq095958@gmail.com"}
+  - {title: Mail, icon: envelope, url: "mailto:xyq095958@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/xyq095958"}
 
 comments:
