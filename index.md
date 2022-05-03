@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: "page"
 title: "Bio"
 ---
 Hello ! Welcome to my personal website ~ 
